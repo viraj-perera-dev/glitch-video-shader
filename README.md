@@ -186,7 +186,7 @@ Found a bug or have a feature request? Please open an issue on [GitHub](https://
 
 # 💬 Community & Discussions
 Join the community discussion for tips, showcase your projects, and get help from other developers:
-👉 [GitHub Discussions](https://github.com/viraj-perera-dev/liquid-glass/discussions)
+👉 [GitHub Discussions](https://github.com/viraj-perera-dev/glitch-video-shader/discussions)
 
 ---
 
