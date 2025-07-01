@@ -1,0 +1,32 @@
+{
+  "name": "@developer-hub/hover-glitch-shader",
+  "version": "1.0.5",
+  "description": "React + R3F shader hover glitch video effect",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["react", "shader", "three", "r3f", "glitch", "hover", "video"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "vite": "^7.0.0"
+  },
+  "peerDependencies": {
+    "@react-three/drei": "^10.3.0",
+    "@react-three/fiber": "^9.1.4",
+    "three": "^0.177.0"
+  }
+}
